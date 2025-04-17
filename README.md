@@ -21,3 +21,7 @@ We proposed 5 beginner-friendly strategies including:
 - 02_Customer_Research.pdf
 - 03_Solution_Strategy.pdf
 - 04_Mock_Campaign_Designs/.
+-Domino’s Marketing Strategy Project
+Beginner GitHub Project
+By rishika sinha
+ 
